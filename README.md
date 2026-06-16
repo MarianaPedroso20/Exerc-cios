@@ -1,2 +1,2 @@
-# Exerc-cios
+# Exercicios
 Exercícios para fixação da matéria
